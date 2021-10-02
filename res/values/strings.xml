@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BasicViews5Activity!</string>
+    <string name="app_name">Travelling Salesman Problem</string>
+    <string-array name="cities_array">
+        <item>آبادان</item>
+        <item>آستارا</item>
+        <item>اراک</item>
+        <item>اردبیل</item>
+        <item>ارومیه</item>
+        <item>اصفهان</item>
+        <item>اصلاندوز</item>
+        <item>اهواز</item>
+        <item>ایرانشهر</item>
+        <item>ایلام</item>
+        <item>بابل</item>
+        <item>بابلسر</item>
+        <item>باجگیران</item>
+        <item>بازرگان</item>
+        <item>بجنورد</item>
+        <item>بندر امام خمینی</item>
+        <item>بندرانزلی</item>
+        <item>بندر بوشهر</item>
+        <item>بندرعباس</item>
+        <item>بیرجند</item>
+        <item>بیله سوار</item>
+        <item>پیرانشهر</item>
+        <item>تایباد</item>
+        <item>تبریز</item>
+        <item>تهران</item>
+        <item>جلفا</item>
+        <item>چابهار</item>
+        <item>چالوس</item>
+        <item>خرم آباد</item>
+        <item>خرمشهر</item>
+        <item>خسروی</item>
+        <item>داشلی برون</item>
+        <item>رامسر</item>
+        <item>رشت</item>
+        <item>زاهدان</item>
+        <item>زنجان</item>
+        <item>ساری</item>
+        <item>سرخس</item>
+        <item>سرو</item>
+        <item>سمنان</item>
+        <item>سنندج</item>
+        <item>شاهرود</item>
+        <item>شهرکرد</item>
+        <item>شیراز</item>
+        <item>قزوین</item>
+        <item>قم</item>
+        <item>کاشان</item>
+        <item>کرمان</item>
+        <item>کرمانشاه</item>
+        <item>گرگان</item>
+        <item>لار</item>
+        <item>لطف آباد</item>
+        <item>مشهد</item>
+        <item>مهاباد</item>
+        <item>میرجاوه</item>
+        <item>نوردوز</item>
+        <item>همدان</item>
+        <item>یاسوج</item>
+        <item>یزد</item>
+        
+        
+    </string-array>        
+</resources>
